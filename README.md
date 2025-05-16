@@ -34,29 +34,6 @@ Allows using CLI to control CC1101 board over USB interface. Putty or any other 
 ### Following attacks are available
 
 
-<p align="center">
-  <img src="https://github.com/WR117H/ShadowCipher/assets/97615989/fc82034d-eedc-4a04-af8e-9e0fb5be9ce4">
-</p>
 
-`capture: It records the raw data frequency and it can play it after recording`
-
-
-<p align="center">
-
-  <img src="https://github.com/WR117H/ShadowCipher/assets/97615989/fc82034d-eedc-4a04-af8e-9e0fb5be9ce4">
-
-</p>
-
-`sniffing: It can read the signals`
-
-
-<p align="center">
-  <img src="https://github.com/WR117H/ShadowCipher/assets/97615989/cbaa6186-0684-49d7-83c0-ae99c946a0f9">
-</p>
-
-`scan: It can find the frequency`
-
-
-`graph: It shows the rssi graph on the display`
 
 
