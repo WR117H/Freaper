@@ -1,7 +1,8 @@
-# ShadowCipher
+# ShadowCipher![Group 2 (8)](
+
 
 <p align="center">
-  <img width="220" height="102" src="https://github.com/WR117H/ShadowCipher/assets/97615989/b993fda5-5655-4a4e-96eb-31e3f90dd756" >
+  <img width="220" height="102" src="https://github.com/user-attachments/assets/5eb7b8c4-0b6f-4511-b824-48269b87d2ff" >
   
 </p>
 <p align="center">
@@ -13,15 +14,11 @@
 An rf tool based on CC1101 module and esp8266/rp2040.
 Allows using CLI to control CC1101 board over USB interface. Putty or any other serial terminal can be used.
 
-### YardStick One
-![Yard_stick_one_bundle_bg](https://github.com/WR117H/ShadowCipher/assets/97615989/b6cb4780-be03-4f8c-9433-e06b30d6bf9b)
-</br>
-It has similar functionality to YardStick One but is cheaper and does not need specialized software. Allows for RF jamming and replay attacks as well. It has RAW recording/replaying function which works exactly the same as in the Flipper Zero. Additional function is Radio Chat communicator
 
 ### How to build one?
 > <details><summary><code>D.I.Y Method</code></summary><ul>
 >   <br>
->   <li>Just connect an CC1101 to ESP8266 by the schematic link below</li>
+>   <li>Just connect an CC1101 to RP2040 by the schematic link below</li>
 >   <br>
 >   <li>https://github.com/WR117H/ShadowCipher/assets/97615989/6da47cfb-2334-4604-b99e-271cfd8e5fa5</li>
 >   <br>
