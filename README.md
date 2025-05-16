@@ -1,10 +1,7 @@
 # ShadowCipher![Group 2 (8)](
+![Group 2 (8)](https://github.com/user-attachments/assets/3824f866-1a87-45c2-bef3-ccbfc522f87c)
 
 
-<p align="center">
-  <img width="220" height="102" src="https://github.com/user-attachments/assets/5eb7b8c4-0b6f-4511-b824-48269b87d2ff" >
-  
-</p>
 <p align="center">
 
   <img src="https://github.com/WR117H/ShadowCipher/assets/97615989/fc82034d-eedc-4a04-af8e-9e0fb5be9ce4">
