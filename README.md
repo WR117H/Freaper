@@ -1,4 +1,4 @@
-# ShadowCipher
+# Freaper
 
 ![Group 2 (8)](https://github.com/user-attachments/assets/3824f866-1a87-45c2-bef3-ccbfc522f87c)
 
