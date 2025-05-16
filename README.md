@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/WR117H/ShadowCipher/assets/97615989/fc82034d-eedc-4a04-af8e-9e0fb5be9ce4">
+  <img src="https://github.com/user-attachments/assets/96e64260-c2ab-4ebe-bd9b-694cce7289d2">
 
 </p>
 
