@@ -1,6 +1,3 @@
-# Freaper
-
-![Group 2 (8)](https://github.com/user-attachments/assets/3824f866-1a87-45c2-bef3-ccbfc522f87c)
 
 
 <p align="center">
@@ -8,9 +5,6 @@
   <img src="https://github.com/user-attachments/assets/96e64260-c2ab-4ebe-bd9b-694cce7289d2">
 
 </p>
-
-An rf tool based on CC1101 module and esp8266/rp2040.
-Allows using CLI to control CC1101 board over USB interface. Putty or any other serial terminal can be used.
 
 
 ### How to build one?
