@@ -29,7 +29,7 @@ Whether you're a security researcher or an RF enthusiast, Freaper provides a fle
 
 ## 🖥️ CLI Preview
 
-![CLI Screenshot](./path/to/command_preview.png)
+![image](https://github.com/user-attachments/assets/671d4554-6b4e-4f94-ba4d-42ff9a6e3f65)
 
 The interface supports modular commands. Example:
 
