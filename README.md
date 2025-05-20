@@ -2,9 +2,6 @@
 
 
 **Freaper** – SubGHz Toolkit for RP2040 + CC1101
-
-> **SHcipher – Atmega based subghz tool** (Now ported and expanded for RP2040)
-
 ---
 
 ## 🧬 What is Freaper?
