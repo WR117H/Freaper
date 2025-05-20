@@ -1,33 +1,42 @@
+#[Group 3 (1)](https://github.com/user-attachments/assets/98c173ed-3681-46a3-82b4-6442a49e7662)
 
+**Freaper** – SubGHz Toolkit for RP2040 + CC1101
 
-<p align="center">
+> **SHcipher – Atmega based subghz tool** (Now ported and expanded for RP2040)
 
-  <img src="https://github.com/user-attachments/assets/96e64260-c2ab-4ebe-bd9b-694cce7289d2">
+---
 
-</p>
+## 🧬 What is Freaper?
 
+**Freaper** is a compact and powerful Sub-1GHz hacking toolkit built around the **RP2040 microcontroller** and **CC1101 RF transceiver**. It brings together a suite of essential features including:
 
-### How to build one?
-> <details><summary><code>D.I.Y Method</code></summary><ul>
->   <br>
->   <li>Just connect an CC1101 to RP2040 by the schematic link below</li>
->   <br>
->   <li>https://github.com/WR117H/ShadowCipher/assets/97615989/6da47cfb-2334-4604-b99e-271cfd8e5fa5</li>
->   <br>
->   <li>by using `python setup.py --port [port] --update True` You can just update or install the ShadowCipher firmware on your device </li>
+- 🔊 **Jammer** – Saturate SubGHz frequencies to disrupt communication.
+- 🧭 **Analyzer** – Scan and analyze SubGHz signals with precision.
+- 📡 **Raw Recorder** – Capture raw packets for later study or replay.
+- 🔁 **Replay** – Re-transmit captured signals for penetration testing and IoT fuzzing.
 
-> </ul></details>
-> <details><summary><code>ShadowCipher pcb</code></summary><ul>
->   <br>
->   <li>Comming soon ...</li>
-> </ul></details>
+Whether you're a security researcher or an RF enthusiast, Freaper provides a flexible interface and robust capabilities in a minimalist package.
 
-### Useage
+---
 
+## 🚀 Features
 
-### Following attacks are available
+- ✅ Compatible with RP2040-based boards
+- ✅ Uses CC1101 (433/868/915 MHz supported)
+- ✅ Interactive CLI interface via USB serial
+- ✅ Plug-and-play: no external drivers required
+- ✅ Open source and customizable
 
+---
 
+## 🖥️ CLI Preview
 
+![CLI Screenshot](./path/to/command_preview.png)
 
+The interface supports modular commands. Example:
 
+```bash
+freaper1 > scan
+freaper1 > jam 433.92
+freaper1 > record raw_433.sig
+freaper1 > replay raw_433.sig
