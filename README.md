@@ -2,7 +2,7 @@
 ![Group 3 (1)](https://github.com/user-attachments/assets/49599412-1ae3-40d6-b569-c9f16611a13c)
 
 
-**Freaper** – SubGHz Toolkit for RP2040 + CC1101
+**Freaper** – Coming soon....
 ---
 
 ## 🧬 What is Freaper?
